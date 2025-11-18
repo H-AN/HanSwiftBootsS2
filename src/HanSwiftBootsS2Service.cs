@@ -55,7 +55,7 @@ public class HanSwiftBootsS2Service
         {
             bool allowed = sidCfg.Team switch
             {
-                0 => true,          // 全部队伍
+                0 => true,          //any
                 1 => pawn.TeamNum == 3, // CT
                 2 => pawn.TeamNum == 2, // T
                 _ => false
@@ -65,7 +65,7 @@ public class HanSwiftBootsS2Service
             {
                 jumpBoostHeight = sidCfg.JumpBoostHeight;
                 durationTicks = sidCfg.DurationTicks;
-                applied = true; // 已应用
+                applied = true; 
             }
         }
 
@@ -138,4 +138,5 @@ public class HanSwiftBootsS2Service
     }
 
 }
+
 
