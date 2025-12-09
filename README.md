@@ -2,9 +2,16 @@
 <div align="center"><h1><img width="600" height="131" alt="68747470733a2f2f70616e2e73616d7979632e6465762f732f56596d4d5845" src="https://github.com/user-attachments/assets/d0316faa-c2d0-478f-a642-1e3c3651f1d4" /></h1></div>
 
 <div class="section">
-<div align="center"><h1>SwiftBoots for Sw2 / 飞鞋 for Sw2</h1></div>
+<div align="center"><h1>SwiftBoots for Sw2 / 飞鞋 for Sw2 </h1></div>
 <div align="center"><strong>描述:</strong> 飞鞋，让玩家跳得更高！支持 SteamID 个性化配置和队伍区分的跳跃力。</p></div>
 <div align="center"><strong>SwiftBoots allows players to jump higher! Supports SteamID-specific configuration and team-based jump boost.</p></div>
+</div>
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z31PY52N)
+  
+
 </div>
 
 <div class="section">
